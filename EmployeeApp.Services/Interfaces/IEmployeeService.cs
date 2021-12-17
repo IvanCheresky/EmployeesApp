@@ -1,7 +1,6 @@
-﻿using System.Collections.Generic;
+﻿using EmployeeApp.Data.DTOs;
+using System.Collections.Generic;
 using System.Threading.Tasks;
-using EmployeeApp.Data;
-using EmployeeApp.Data.DTOs;
 
 namespace EmployeeApp.Services.Interfaces
 {

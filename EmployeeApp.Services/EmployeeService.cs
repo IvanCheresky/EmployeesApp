@@ -1,10 +1,10 @@
-﻿using System;
+﻿using EmployeeApp.Data.DTOs;
+using EmployeeApp.Data.Interfaces;
+using EmployeeApp.Services.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using EmployeeApp.Data.DTOs;
-using EmployeeApp.Data.Interfaces;
-using EmployeeApp.Services.Interfaces;
 
 namespace EmployeeApp.Services
 {

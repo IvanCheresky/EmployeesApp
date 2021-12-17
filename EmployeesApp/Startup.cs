@@ -1,13 +1,12 @@
 using AutoMapper;
+using EmployeeApp.Data.Clients;
 using EmployeeApp.Data.Interfaces;
 using EmployeeApp.Data.Repositories;
 using EmployeeApp.Data.Settings;
 using EmployeeApp.Services;
-using EmployeeApp.Services.Clients;
 using EmployeeApp.Services.Interfaces;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;

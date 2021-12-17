@@ -1,9 +1,9 @@
-﻿using EmployeeApp.Services.Clients;
+﻿using EmployeeApp.Data.Enums;
+using EmployeeApp.Data.Interfaces;
+using EmployeeApp.Services.Clients;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using EmployeeApp.Data.Enums;
-using EmployeeApp.Data.Interfaces;
 
 namespace EmployeeApp.Data.Repositories
 {

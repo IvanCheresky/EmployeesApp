@@ -1,9 +1,9 @@
-﻿using System;
-using AutoMapper;
+﻿using AutoMapper;
 using EmployeeApp.Data;
 using EmployeeApp.Data.DTOs;
 using EmployeeApp.Data.Enums;
 using EmployeeApp.Services.Interfaces;
+using System;
 
 namespace EmployeeApp.Services
 {
